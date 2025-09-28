@@ -30,5 +30,5 @@ Following methods were used for improving and fine tuning the model:
 - Hyperparameter tuning using Optuna improving the accuracy by 20 percent (especiallly for the minority class)
 
 ## Data Sources 
-- Defaulted Countries list: https://thedocs.worldbank.org/en/doc/4d4081ea0fd5642318a373701a296a61-0050022024/original/Mallucci-Sovereign-defaults-at-home-and-abroad.pdf 
-- GDP indicators: https://pypi.org/project/wbgapi/
+- World Bank API: [Defaulted Countries List](https://thedocs.worldbank.org/en/doc/4d4081ea0fd5642318a373701a296a61-0050022024/original/Mallucci-Sovereign-defaults-at-home-and-abroad.pdf)
+- World Bank API: [GDP Indicators](https://pypi.org/project/wbgapi/)
